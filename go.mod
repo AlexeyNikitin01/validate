@@ -1,4 +1,4 @@
-module validate
+module github.com/AlexeyNikitin01/validate
 
 go 1.20
 
